@@ -1,0 +1,2 @@
+# DatabaseManagementVisualizationSystem
+基于Django+Layui+ECharts打造的简易版数据库管理和可视化系统
